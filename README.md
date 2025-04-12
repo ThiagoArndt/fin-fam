@@ -95,7 +95,7 @@ Este documento apresenta o projeto "Gestão Financeira Inteligente com Open Fina
 
 **Casos de Uso:**
 
-![image](https://github.com/user-attachments/assets/e6b14f69-6ed2-45fe-8f0b-8c214a2a34b5)
+![image](https://github.com/user-attachments/assets/a99e8c92-1dd5-432c-863e-fbbd537a38ef)
 
 
 ## 3.2 Fluxograma de Atividade
